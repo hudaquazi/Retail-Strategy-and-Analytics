@@ -11,3 +11,5 @@
 - Calculate correlation to select control store reflecting same prior performance as that of trial store.
 - Compare performance of trial and control store after implementing new layout.
 - Present Key Insights via Presentation
+
+Note:- QVI_data.csv file which is used in Task 2 is not provided because of size constraint.
